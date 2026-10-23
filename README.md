@@ -9,11 +9,22 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kaushalprajapati04&label=PROFILE+VIEWS&style=flat-square&color=58A6FF" alt="Profile views" />
 
-<a href="https://github.com/kaushalprajapati04?tab=followers">
-<img src="https://img.shields.io/github/followers/kaushalprajapati04?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=0D1117" alt="Followers" />
-</a>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Kaushal+Kumar+Prajapati+%F0%9F%91%8B;Building+Full-Stack+%26+AI+Projects;Java+%7C+SQL+%7C+React+%7C+Node.js"
+       alt="Typing animation" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=kaushalprajapati04&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
+       alt="Profile views" />
+
+  <img src="https://img.shields.io/github/followers/kaushalprajapati04?label=FOLLOWERS&style=flat-square&color=58A6FF"
+       alt="GitHub followers" />
+
+</div>
+
 
 <br/><br/>
 
